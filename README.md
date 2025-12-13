@@ -24,13 +24,13 @@ This project demonstrates fundamental front-end development concepts, including 
 ## Technology Stack
 
 - **HTML5** – Markup structure
-- \*\*TAILWINDCSS - Styling
+- TAILWINDCSS - Styling
 - **JavaScript (ES6+)** – Application logic
 - **LocalStorage API** – Client-side persistence
 
 ---
 
-## 🧩 CRUD Operations
+##  CRUD Operations
 
 ### Create
 
